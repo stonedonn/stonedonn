@@ -7,8 +7,7 @@
 <img src="https://img.shields.io/badge/Android-339933?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-47A248?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/MsSQL-4479A1?style=flat-square&logo=MsSQL&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/django-00599C?style=flat-square&logo=django&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
+
 
 
 <!--
